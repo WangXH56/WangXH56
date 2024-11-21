@@ -16,6 +16,10 @@
 </p>
 
 <p align="center">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6d0f2eab-f1d0-4504-945d-5261f57adc8a/17e662c9-02c5-425f-ae47-ae23dfdd0e1f.png" /></a>
+</p>
+
+<p align="center">
 <a>$\mathrm{Ciallo～(∠・ω< )⌒★}$</a>   
 <br>
 <a>$\mathrm{This\ GitHub\ Account\ is\ using\ for\ {\color{Red} OI} }$</a>   
